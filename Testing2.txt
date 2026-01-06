@@ -1,1 +1,1 @@
-
+Testing from GitHub to Eclipse (local repository)
